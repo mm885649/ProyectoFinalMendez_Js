@@ -1,0 +1,28 @@
+[
+    
+    { "imagen": "images/nike_logo.png", "marca": "Nike", "ITEM": "1", "modeloDePrenda": "Playera CH Nike", "precio": 400 },
+    { "imagen": "images/nike_logo.png", "marca": "Nike", "ITEM": "2", "modeloDePrenda": "Playera M Nike", "precio": 550 },
+    { "imagen": "images/nike_logo.png", "marca": "Nike", "ITEM": "3", "modeloDePrenda": "Playera G Nike", "precio": 700 },
+    { "imagen": "images/adidas_logo.png", "marca": "Adidas", "ITEM": "4", "modeloDePrenda": "Playera CH Adidas", "precio": 400 },
+    { "imagen": "images/adidas_logo.png", "marca": "Adidas", "ITEM": "5", "modeloDePrenda": "Playera M Adidas", "precio": 550 },
+    { "imagen": "images/adidas_logo.png", "marca": "Adidas", "ITEM": "6", "modeloDePrenda": "Playera G Adidas", "precio": 700 },
+    { "imagen": "images/under_armour_logo.png", "marca": "Under Armour", "ITEM": "7", "modeloDePrenda": "Playera CH Under Armour", "precio": 400 },
+    { "imagen": "images/under_armour_logo.png", "marca": "Under Armour", "ITEM": "8", "modeloDePrenda": "Playera M Under Armour", "precio": 550 },
+    { "imagen": "images/under_armour_logo.png", "marca": "Under Armour", "ITEM": "9", "modeloDePrenda": "Playera G Under Armour", "precio": 700 },
+    { "imagen": "images/reebok_logo.png", "marca": "Reebok", "ITEM": "10", "modeloDePrenda": "Playera CH Reebok", "precio": 400 },
+    { "imagen": "images/reebok_logo.png", "marca": "Reebok", "ITEM": "11", "modeloDePrenda": "Playera M Reebok", "precio": 550 },
+    { "imagen": "images/reebok_logo.png", "marca": "Reebok", "ITEM": "12", "modeloDePrenda": "Playera G Reebok", "precio": 700 },
+    
+    { "imagen": "images/nike_logo.png", "marca": "Nike", "ITEM": "13", "modeloDePrenda": "Pants CH Nike", "precio": 650 },
+    { "imagen": "images/nike_logo.png", "marca": "Nike", "ITEM": "14", "modeloDePrenda": "Pants M Nike", "precio": 800 },
+    { "imagen": "images/nike_logo.png", "marca": "Nike", "ITEM": "15", "modeloDePrenda": "Pants G Nike", "precio": 1200 },
+    { "imagen": "images/adidas_logo.png", "marca": "Adidas", "ITEM": "16", "modeloDePrenda": "Pants CH Adidas", "precio": 650 },
+    { "imagen": "images/adidas_logo.png", "marca": "Adidas", "ITEM": "17", "modeloDePrenda": "Pants M Adidas", "precio": 800 },
+    { "imagen": "images/adidas_logo.png", "marca": "Adidas", "ITEM": "18", "modeloDePrenda": "Pants G Adidas", "precio": 1200 },
+    { "imagen": "images/under_armour_logo.png", "marca": "Under Armour", "ITEM": "19", "modeloDePrenda": "Pants CH Under Armour", "precio": 650 },
+    { "imagen": "images/under_armour_logo.png", "marca": "Under Armour", "ITEM": "20", "modeloDePrenda": "Pants M Under Armour", "precio": 800 },
+    { "imagen": "images/under_armour_logo.png", "marca": "Under Armour", "ITEM": "21", "modeloDePrenda": "Pants G Under Armour", "precio": 1200 },
+    { "imagen": "images/reebok_logo.png", "marca": "Reebok", "ITEM": "22", "modeloDePrenda": "Pants CH Reebok", "precio": 650 },
+    { "imagen": "images/reebok_logo.png", "marca": "Reebok", "ITEM": "23", "modeloDePrenda": "Pants M Reebok", "precio": 800 },
+    { "imagen": "images/reebok_logo.png", "marca": "Reebok", "ITEM": "24", "modeloDePrenda": "Pants G Reebok", "precio": 1200 }
+]

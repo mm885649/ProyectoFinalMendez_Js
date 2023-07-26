@@ -1,0 +1,170 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto:300,300italic,700,700italic");
+@import url("https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.css");
+@import url("https://cdnjs.cloudflare.com/ajax/libs/milligram/1.4.1/milligram.css");
+
+* {
+    margin: 10px;
+}
+
+ html {
+      color-scheme: dark;
+    
+} 
+
+h1{
+    text-align: center;
+}
+
+form {
+    background-color:  darkslategrey;
+    padding: 20px;
+    border-radius: 6px;
+    box-shadow: 6px 10px rgba(119, 136, 153, 0.108);
+}
+
+form input {
+    background-color: white !important;
+}
+
+footer {
+    background-color: rgb(237, 228, 239);
+    font-weight: 700;
+    padding: 10px;
+}
+
+hr {
+    border-top: 2px solid orange !important;
+}
+
+.centrar-div {
+    text-align: center;
+}
+
+.texto-azul {
+    color: blue;
+    font-weight: 700;
+}
+
+img.logo {
+    display: inline;
+    width: 48px;
+    float: right;
+    cursor: pointer;
+}
+
+div.header {
+    display: inline;
+}
+
+div.carrito span {
+    font-weight: 700;
+}
+
+.container {
+    gap: 20px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.div-card {
+    display: flexbox;
+    margin: 6px;
+    padding: 2px;
+    text-align: center;
+    border-radius: 5px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: lightblue;
+    box-shadow: 10px 6px 6px rgba(211, 211, 211, 0.221);
+    width: 220px;
+    height: 350px;
+}
+
+.div-card:hover {
+    background-color:rgb(229, 248, 255);
+    transition: .5s ease-in;
+    box-shadow: 5px 20px 60px rgba(211, 211, 211, 0.519);
+}
+
+div.imagen {
+    font-size: .5px !important;
+}
+
+div.prenda {
+    font-size: 18px;
+}
+
+div.card-error {
+    padding: 10px;
+    border-radius: 6px;
+    margin-bottom: 30px;
+    text-align: center;
+    color: whitesmoke;
+    background-color: darkred;
+    box-shadow: 6px 8px 8px darkslategrey;
+}
+
+div.importe {
+    font-size: 16px;
+    font-weight: 700;
+}
+
+button {
+    background-color:  darkslategrey;
+    font-size: 10px;
+    padding: 0px;
+}
+
+div:where(.swal2-container) button:where(.swal2-styled).swal2-confirm {
+    border: 0;
+    border-radius: 0.25em;
+    background: initial;
+    background-color: darkslategrey;
+    color: #fff;
+    font-size: 1em;
+}
+
+button.button.button-outline{
+    color: darkslategrey;
+}
+
+.button-addToCart {
+    text-size-adjust: 30px;
+    width: 80px;
+}
+
+.button-form {
+    width: 140px;
+}
+
+button, button:not(:hover) {
+    background-color: darkslategray;
+    border-color: gray;
+}
+
+button:hover {
+    background-color: darkcyan;
+    color: whitesmoke;
+    border-color: lightgray;
+}
+
+button:active {
+    background-color: black;
+    color: whitesmoke;
+    border-color: black;
+}
+
+.wobble-hor-bottom {
+	        animation: wobble-hor-bottom 0.8s both;
+}
+
+
+footer {
+    background-color: black;
+    color: whitesmoke;
+    border-color: black;
+    text-align: center;
+}
